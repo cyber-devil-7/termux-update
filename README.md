@@ -39,3 +39,15 @@ chmod +x *
 • https://chat.whatsapp.com/HgFnodYpBooHcqlwvsv9Ja
 
 • https://t.me/+5FS644_XFGRjNDE1
+
+# SCREEN SHOT
+
+> ![Image](https://github.com/user-attachments/assets/936b5c34-1759-4bcf-96a7-c5ca0a788178)
+
+> ![Image](https://github.com/user-attachments/assets/ffdfb95e-1934-48c0-8bc2-628065b4c797)
+
+> ![Image](https://github.com/user-attachments/assets/433c792b-81ec-46a2-adbc-1a3d0306ce94)
+
+> ![Image](https://github.com/user-attachments/assets/8555b0be-77df-43af-8f54-cce9243bdb3a)
+
+> ![Image](https://github.com/user-attachments/assets/f9145ae6-f249-4741-b169-d3d969ac83de)
