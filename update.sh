@@ -77,7 +77,7 @@ elif [[ $choice == 2 ]]; then
     modules=(
     aiohttp aiogram apscheduler argcomplete asgiref
     bcrypt beautifulsoup4 boto3 build
-    certifi chardet click colorama cryptography
+    certifi chardet click colorama 
     datasets dateparser deepface dnspython
     elasticsearch email-validator exifread
     fastapi faker feedparser flask
