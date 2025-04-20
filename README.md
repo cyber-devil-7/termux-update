@@ -1,5 +1,5 @@
 # termux-update
-This script is designed to automatically install all available Termux packages using the pkg command, along with popular pip modules through pip and pip3. It's ideal for setting up a fresh Termux environment or building a powerful portable development toolkit.
+> This script is designed to automatically install all available Termux packages using the pkg command, along with popular pip modules through pip and pip3. It's ideal for setting up a fresh Termux environment or building a powerful portable development toolkit.
 
 # INSTALLASTION
 ```
@@ -40,7 +40,9 @@ chmod +x *
 
 • https://t.me/+5FS644_XFGRjNDE1
 
-# SCREEN SHOT
+# SCREEN SHOTS
+
+> ![Image](https://github.com/user-attachments/assets/f9145ae6-f249-4741-b169-d3d969ac83de)
 
 > ![Image](https://github.com/user-attachments/assets/936b5c34-1759-4bcf-96a7-c5ca0a788178)
 
@@ -50,4 +52,5 @@ chmod +x *
 
 > ![Image](https://github.com/user-attachments/assets/8555b0be-77df-43af-8f54-cce9243bdb3a)
 
-> ![Image](https://github.com/user-attachments/assets/f9145ae6-f249-4741-b169-d3d969ac83de)
+
+
